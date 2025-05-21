@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Showkot-Hosen
 - 👀 I’m interested in Cybersecurity Expert
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ...Ethical Hacking
 - 💞️ I’m looking to collaborate on Automated scripting.
 - 📫 How to reach me www.linkedin.com/in/showkot-hosen10
 - 😄 Pronouns: Showkot
